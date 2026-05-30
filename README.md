@@ -77,7 +77,7 @@ DWH-Dirhamworldhalal/
 4. **Acheter DWH**
    - [PancakeSwap](https://pancakeswap.finance/)
    - [Biswap](https://biswap.org/)
-   - Paires: DIRHAM/BUSD, DIRHAM/USDT, DIRHAM/BNB
+   - Paires: DWH/BUSD, DWH/USDT, DIRHAM/BNB
 
 ### Pour Développeurs
 
