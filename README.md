@@ -333,7 +333,7 @@ Treasury      Governance      Sharia Board
 | **Discord** | À créer | 📅 |
 | **Telegram** | À créer | 📅 |
 | **Twitter** | À mettre à jour | 🔄 |
-| **Email** | support@dirhamworldhalal.com | ✅ |
+| **Email** | info@dirhamwh.com | ✅ |
 | **Forum** | discussions.github.com | ✅ |
 
 ### Questions Fréquentes
