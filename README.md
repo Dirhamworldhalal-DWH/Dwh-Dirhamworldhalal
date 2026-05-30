@@ -27,7 +27,7 @@ Fournir une plateforme financière décentralisée, transparente et entièrement
 | **Blockchain** | BNB Smart Chain (ChainID: 56) |
 | **Standard** | BEP20 |
 | **Contrat** | `0x559e10189ece533bf0c289961eeff1bb41755cb3` |
-| **Supply** | À vérifier |
+| **Supply** | 21 000 000 |
 | **Holders** | 228+ |
 | **Market Cap** | ~$800,000 |
 | **Prix** | ~$0.0381 USD |
