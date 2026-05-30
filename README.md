@@ -373,7 +373,7 @@ Ce project est sous licence [MIT License](LICENSE)
 
 ### Pour Partenaires
 1. Voir [Partnership Guide](./partnerships/README.md)
-2. Contacter: partnerships@dirhamworldhalal.com
+2. Contacter: partnerships@dirhamwh.com
 3. Discuter intégration
 
 ---
