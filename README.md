@@ -154,12 +154,12 @@ Voir [Developer Guide](./documentation/DEVELOPER-GUIDE.md)
 - 💬 **Discord**: [Rejoindre](https://discord.gg/dirhamhalal) *(À créer)*
 - 🐦 **Twitter**: [@DirhamHalal](https://twitter.com/dirhamhalal) *(À mettre à jour)*
 - 📱 **Telegram**: [@DirhamHalalOfficial](https://t.me/dirhamhalal) *(À créer)*
-- 📞 **Support**: support@dirhamworldhalal.com
+- 📞 **Support**: support@dirhamwh.com.com
 
 ### Échanges
 - **DEX**: PancakeSwap, Biswap
 - **CEX**: À lister
-- **Liquidity Pools**: DIRHAM/BUSD, DIRHAM/USDT
+- **Liquidity Pools**: DWH/BnB, DWH/USDT
 
 ---
 
