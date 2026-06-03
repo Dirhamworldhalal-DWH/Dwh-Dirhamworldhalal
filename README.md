@@ -154,7 +154,7 @@ Voir [Developer Guide](./documentation/DEVELOPER-GUIDE.md)
 - 💬 **Discord**: [Rejoindre](https://discord.gg/dirhamhalal) *(À créer)*
 - 🐦 **Twitter**: [@DirhamHalal](https://twitter.com/dirhamhalal) *(À mettre à jour)*
 - 📱 **Telegram**: [@DirhamHalalOfficial](https://t.me/dirhamhalal) *(À créer)*
-- 📞 **Support**: support@dirhamwh.com.com
+- 📞 **Support**: support@dirhamwh.com
 
 ### Échanges
 - **DEX**: PancakeSwap, Biswap
